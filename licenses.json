@@ -2,6 +2,7 @@
   "POI-001": {
     "password": "poi6336",
     "status": "active",
-    "expired": "lifetime"
+    "expired": "lifetime",
+    "device_id": null
   }
 }
