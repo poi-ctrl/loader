@@ -1,6 +1,30 @@
 {
-  "POI-001": {
-    "password": "poi6336",
+  "BYTEN": {
+    "password": "byten01",
+    "status": "active",
+    "expired": "lifetime",
+    "device_id": null
+  },
+  "ADIKKK": {
+    "password": "naomi01",
+    "status": "active",
+    "expired": "lifetime",
+    "device_id": null
+  },
+  "ARNIDODI": {
+    "password": "arnidodi01",
+    "status": "active",
+    "expired": "lifetime",
+    "device_id": null
+  },
+  "VIO": {
+    "password": "vio01",
+    "status": "active",
+    "expired": "lifetime",
+    "device_id": null
+  },
+  "pembeli5": {
+    "password": "kosong",
     "status": "active",
     "expired": "lifetime",
     "device_id": null
