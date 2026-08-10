@@ -23,8 +23,8 @@
     "expired": "lifetime",
     "device_id": null
   },
-  "ARIF": {
-    "password": "arif01",
+  "ALDI": {
+    "password": "aldi01",
     "status": "active",
     "expired": "lifetime",
     "device_id": null
