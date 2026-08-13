@@ -58,41 +58,5 @@
     "status": "active",
     "expired": "lifetime",
     "device_id": null
-  },
-  "BUYER-001": {
-    "password": "kosong 1",
-    "status": "active",
-    "expired": "2026-09-30",
-    "device_id": null
-  },
-  "BUYER-006": {
-    "password": "kosong 6",
-    "status": "active",
-    "expired": "2026-09-30",
-    "device_id": null
-  },
-  "BUYER-007": {
-    "password": "kosong 7",
-    "status": "active",
-    "expired": "2026-09-30",
-    "device_id": null
-  },
-  "BUYER-008": {
-    "password": "kosong 8",
-    "status": "active",
-    "expired": "2026-09-30",
-    "device_id": null
-  },
-  "BUYER-009": {
-    "password": "kosong 9",
-    "status": "active",
-    "expired": "2026-09-30",
-    "device_id": null
-  },
-  "BUYER-010": {
-    "password": "kosong 10",
-    "status": "active",
-    "expired": "2026-09-30",
-    "device_id": null
   }
 }
