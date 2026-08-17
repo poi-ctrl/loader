@@ -36,13 +36,13 @@
     "device_id": null
   },
   "SONIA": {
-    "password": "zidane01",
+    "password": "sonia01",
     "status": "active",
     "expired": "lifetime",
     "device_id": null
   },
-  "BUYER-003": {
-    "password": "kosong 3",
+  "KARTEL": {
+    "password": "kartel01",
     "status": "active",
     "expired": "lifetime",
     "device_id": null
