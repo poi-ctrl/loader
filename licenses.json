@@ -58,5 +58,126 @@
     "status": "active",
     "expired": "lifetime",
     "device_id": null
+  },
+
+  "PEMBELI1": {
+    "password": "password01",
+    "status": "active",
+    "expired": "lifetime",
+    "device_id": null
+  },
+  "PEMBELI2": {
+    "password": "password02",
+    "status": "active",
+    "expired": "lifetime",
+    "device_id": null
+  },
+  "PEMBELI3": {
+    "password": "password03",
+    "status": "active",
+    "expired": "lifetime",
+    "device_id": null
+  },
+  "PEMBELI4": {
+    "password": "password04",
+    "status": "active",
+    "expired": "lifetime",
+    "device_id": null
+  },
+  "PEMBELI5": {
+    "password": "password05",
+    "status": "active",
+    "expired": "lifetime",
+    "device_id": null
+  },
+  "PEMBELI6": {
+    "password": "password06",
+    "status": "active",
+    "expired": "lifetime",
+    "device_id": null
+  },
+  "PEMBELI7": {
+    "password": "password07",
+    "status": "active",
+    "expired": "lifetime",
+    "device_id": null
+  },
+  "PEMBELI8": {
+    "password": "password08",
+    "status": "active",
+    "expired": "lifetime",
+    "device_id": null
+  },
+  "PEMBELI9": {
+    "password": "password09",
+    "status": "active",
+    "expired": "lifetime",
+    "device_id": null
+  },
+  "PEMBELI10": {
+    "password": "password10",
+    "status": "active",
+    "expired": "lifetime",
+    "device_id": null
+  },
+  "PEMBELI11": {
+    "password": "password11",
+    "status": "active",
+    "expired": "lifetime",
+    "device_id": null
+  },
+  "PEMBELI12": {
+    "password": "password12",
+    "status": "active",
+    "expired": "lifetime",
+    "device_id": null
+  },
+  "PEMBELI13": {
+    "password": "password13",
+    "status": "active",
+    "expired": "lifetime",
+    "device_id": null
+  },
+  "PEMBELI14": {
+    "password": "password14",
+    "status": "active",
+    "expired": "lifetime",
+    "device_id": null
+  },
+  "PEMBELI15": {
+    "password": "password15",
+    "status": "active",
+    "expired": "lifetime",
+    "device_id": null
+  },
+  "PEMBELI16": {
+    "password": "password16",
+    "status": "active",
+    "expired": "lifetime",
+    "device_id": null
+  },
+  "PEMBELI17": {
+    "password": "password17",
+    "status": "active",
+    "expired": "lifetime",
+    "device_id": null
+  },
+  "PEMBELI18": {
+    "password": "password18",
+    "status": "active",
+    "expired": "lifetime",
+    "device_id": null
+  },
+  "PEMBELI19": {
+    "password": "password19",
+    "status": "active",
+    "expired": "lifetime",
+    "device_id": null
+  },
+  "PEMBELI20": {
+    "password": "password20",
+    "status": "active",
+    "expired": "lifetime",
+    "device_id": null
   }
 }
