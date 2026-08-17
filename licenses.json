@@ -53,8 +53,8 @@
     "expired": "lifetime",
     "device_id": null
   },
-  "BUYER-005": {
-    "password": "kosong 5",
+  "ALDY": {
+    "password": "aldy01",
     "status": "active",
     "expired": "lifetime",
     "device_id": null
