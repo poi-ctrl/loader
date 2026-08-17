@@ -29,7 +29,7 @@
     "expired": "lifetime",
     "device_id": null
   },
-  "BYTEN": {
+  "BITEN": {
     "password": "byten02",
     "status": "active",
     "expired": "lifetime",
@@ -47,7 +47,7 @@
     "expired": "lifetime",
     "device_id": null
   },
-  "ADIKKK": {
+  "ADIKK": {
     "password": "naomi02",
     "status": "active",
     "expired": "lifetime",
