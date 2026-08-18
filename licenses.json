@@ -60,8 +60,8 @@
     "device_id": null
   },
 
-  "PEMBELI1": {
-    "password": "password01",
+  "KHOLIS": {
+    "password": "kholis01",
     "status": "active",
     "expired": "lifetime",
     "device_id": null
