@@ -120,8 +120,8 @@
     "expired": "lifetime",
     "device_id": null
   },
-  "PEMBELI11": {
-    "password": "password11",
+  "FAIRY": {
+    "password": "12345",
     "status": "active",
     "expired": "lifetime",
     "device_id": null
