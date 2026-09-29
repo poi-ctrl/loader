@@ -126,8 +126,8 @@
     "expired": "lifetime",
     "device_id": null
   },
-  "PEMBELI12": {
-    "password": "password12",
+  "RYSA": {
+    "password": "12345",
     "status": "active",
     "expired": "lifetime",
     "device_id": null
