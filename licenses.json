@@ -138,8 +138,8 @@
     "expired": "lifetime",
     "device_id": null
   },
-  "WESTERN1": {
-    "password": "western1",
+  "WEST": {
+    "password": "west",
     "status": "active",
     "expired": "lifetime",
     "device_id": null
