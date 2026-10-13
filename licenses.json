@@ -150,8 +150,8 @@
     "expired": "lifetime",
     "device_id": null
   },
-  "PEMBELI16": {
-    "password": "password16",
+  "ALIFER": {
+    "password": "12345",
     "status": "active",
     "expired": "lifetime",
     "device_id": null
