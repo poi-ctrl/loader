@@ -79,7 +79,7 @@
     "device_id": null
   },
   "ARNI": {
-    "password": "arni01",
+    "password": "12345",
     "status": "active",
     "expired": "lifetime",
     "device_id": null
@@ -91,7 +91,7 @@
     "device_id": null
   },
   "ARNI": {
-    "password": "arni01",
+    "password": "01",
     "status": "active",
     "expired": "lifetime",
     "device_id": null
