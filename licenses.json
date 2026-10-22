@@ -162,8 +162,8 @@
     "expired": "lifetime",
     "device_id": null
   },
-  "PEMBELI18": {
-    "password": "password18",
+  "POI": {
+    "password": "123",
     "status": "active",
     "expired": "lifetime",
     "device_id": null
