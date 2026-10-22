@@ -78,8 +78,8 @@
     "expired": "lifetime",
     "device_id": null
   },
-  "mentari": {
-    "password": "duha",
+  "OWNER": {
+    "password": "123",
     "status": "active",
     "expired": "lifetime",
     "device_id": null
