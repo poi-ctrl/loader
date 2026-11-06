@@ -84,8 +84,8 @@
     "expired": "lifetime",
     "device_id": null
   },
-  "RINI": {
-    "password": "rini01",
+  "ARCEL": {
+    "password": "arcel01",
     "status": "active",
     "expired": "lifetime",
     "device_id": null
