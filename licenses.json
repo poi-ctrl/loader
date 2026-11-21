@@ -174,8 +174,8 @@
     "expired": "lifetime",
     "device_id": null
   },
-  "PEMBELI20": {
-    "password": "password20",
+  "scnoupy": {
+    "password": "abc123",
     "status": "active",
     "expired": "lifetime",
     "device_id": null
